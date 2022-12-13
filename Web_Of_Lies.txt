@@ -4,11 +4,9 @@ When you play the game of thrones, you win, or you die. There is no middle groun
 Cersei Lannister, A Game of Thrones by George R. R. Martin
 
 Description:
-There are n nobles, numbered from 1 to n. Noble i has a power of i. There are also m "friendships".
-A friendship between nobles a and b is always mutual.
-A noble is defined to be vulnerable if both of the following conditions are.
-
-satisfied:
+There are n nobles, numbered from 1 to n. Noble i has a power of i.
+There are also m "friendships". A friendship between nobles a and b is always mutual.
+A noble is defined to be vulnerable if both of the following conditions are satisfied:
   * the noble has at least one friend
   * all of that noble's friends have a higher power.
 
